@@ -33,7 +33,7 @@ export const LABELS: Label[] = [
   },
   {
     rkey: '3lahjamrabj22',
-    identifier: '1989',
+    identifier: 'nen',
     locales: [
       { lang: 'en', name: '1989 🏙️', description: '1989'},
     ]
