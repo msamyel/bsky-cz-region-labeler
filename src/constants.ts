@@ -4,77 +4,77 @@ export const DELETE = 'insert-rkey-of-delete-post-here';
 export const LABEL_LIMIT = 2;
 export const LABELS: Label[] = [
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjameser2y',
     identifier: 'debut',
     locales: [
-      { lang: 'en', name: 'Debut 🤠', description: 'Debut era'},
+      { lang: 'en', name: 'Debut 🤠', description: 'Debut'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjami4gn2r',
     identifier: 'fearless',
     locales: [
-      { lang: 'en', name: 'Fearless 👱‍♀️', description: 'Fearless era'},
+      { lang: 'en', name: 'Fearless 🛡️', description: 'Fearless'},
     ]
   },
   {
-    rkey: 'insert-rkey-here', 
+    rkey: '3lahjaml4o52j',
     identifier: 'speaknow',
     locales: [
-      { lang: 'en', name: 'Speak Now 💜', description: 'Speak Now era'},
+      { lang: 'en', name: 'Speak Now 💜', description: 'Speak Now'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjamo77p2k',
     identifier: 'red',
     locales: [
-      { lang: 'en', name: 'Red 🧣', description: 'Red era'},
+      { lang: 'en', name: 'Red ❤️', description: 'Red'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjamrabj22',
     identifier: '1989',
     locales: [
-      { lang: 'en', name: '1989 🌊', description: '1989 era'},
+      { lang: 'en', name: '1989 🏙️', description: '1989'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjamufyf2r',
     identifier: 'reputation',
     locales: [
-      { lang: 'en', name: 'Reputation 🐍', description: 'Reputation era'},
+      { lang: 'en', name: 'Reputation 🐍', description: 'Reputation'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjamxh4l2d',
     identifier: 'lover',
     locales: [
-      { lang: 'en', name: 'Lover 💗', description: 'Lover era'},
+      { lang: 'en', name: 'Lover 💗', description: 'Lover'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjan2m3w2y',
     identifier: 'folklore',
     locales: [
-      { lang: 'en', name: 'folklore 🌲', description: 'folklore era'},
+      { lang: 'en', name: 'folklore 🌲', description: 'folklore'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjan5ntk2y',
     identifier: 'evermore',
     locales: [
-      { lang: 'en', name: 'evermore 🍂', description: 'evermore era'},
+      { lang: 'en', name: 'evermore 🍂', description: 'evermore'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjanawt72k',
     identifier: 'midnights',
     locales: [
-      { lang: 'en', name: 'Midnights ✨', description: 'Midnights era'},
+      { lang: 'en', name: 'Midnights 🌙', description: 'Midnights'},
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3lahjanduka2z',
     identifier: 'ttpd',
     locales: [
       { lang: 'en', name: 'The Tortured Poets Department 📚', description: 'The Tortured Poets Department'},
