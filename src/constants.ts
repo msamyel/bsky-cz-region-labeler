@@ -67,6 +67,13 @@ export const LABELS: Label[] = [
     ]
   },
   {
+    rkey: '3lajae3icck2k',
+    identifier: 'folkmore',
+    locales: [
+      { lang: 'en', name: 'folkmore 🌲🍂', description: 'folkmore'},
+    ]
+  },
+  {
     rkey: '3lahjanawt72k',
     identifier: 'midnights',
     locales: [
