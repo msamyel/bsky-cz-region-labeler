@@ -14,7 +14,7 @@ export const LABELS: Label[] = [
     rkey: '3lahjami4gn2r',
     identifier: 'fearless',
     locales: [
-      { lang: 'en', name: 'Fearless 🛡️', description: 'Fearless'},
+      { lang: 'en', name: 'Fearless 💛', description: 'Fearless'},
     ]
   },
   {
