@@ -1,90 +1,104 @@
 import { Label } from './types.js';
 
-export const DELETE = '3lahjanh3j62y';
-export const LABEL_LIMIT = 2;
+export const DELETE = 'cz_region_del';
+export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
-    rkey: '3lahjameser2y',
-    identifier: 'debut',
+    rkey: 'cz_region_pha',
+    identifier: 'Praha',
     locales: [
-      { lang: 'en', name: 'Debut 🤠', description: 'Debut'},
+      { lang: 'cs', name: 'Praha', description: 'Hl. m. Praha'},
     ]
   },
   {
-    rkey: '3lahjami4gn2r',
-    identifier: 'fearless',
+    rkey: 'cz_region_stc',
+    identifier: 'Stredocesky',
     locales: [
-      { lang: 'en', name: 'Fearless 💛', description: 'Fearless'},
+      { lang: 'cs', name: 'Středočeský', description: 'Středočeský kraj'},
     ]
   },
   {
-    rkey: '3lahjaml4o52j',
-    identifier: 'speaknow',
+    rkey: 'cz_region_jhc',
+    identifier: 'Jihocesky',
     locales: [
-      { lang: 'en', name: 'Speak Now 💜', description: 'Speak Now'},
+      { lang: 'cs', name: 'Jihočeský', description: 'Jihočeský kraj'},
     ]
   },
   {
-    rkey: '3lahjamo77p2k',
-    identifier: 'red',
+    rkey: 'cz_region_plk',
+    identifier: 'Plzensky',
     locales: [
-      { lang: 'en', name: 'Red ❤️', description: 'Red'},
+      { lang: 'cs', name: 'Plzeňský', description: 'Plzeňský kraj'},
     ]
-  },
-  {
-    rkey: '3lahjamrabj22',
-    identifier: 'nen',
+},
+{
+    rkey: 'cz_region_kvk',
+    identifier: 'Karlovarsky',
     locales: [
-      { lang: 'en', name: '1989 🏙️', description: '1989'},
+      { lang: 'cs', name: 'Karlovarský', description: 'Karlovarský kraj'},
     ]
-  },
-  {
-    rkey: '3lahjamufyf2r',
-    identifier: 'reputation',
+},
+{
+    rkey: 'cz_region_ulk',
+    identifier: 'Ustecky',
     locales: [
-      { lang: 'en', name: 'Reputation 🐍', description: 'Reputation'},
+      { lang: 'cs', name: 'Ústecký', description: 'Ústecký kraj'},
     ]
-  },
-  {
-    rkey: '3lahjamxh4l2d',
-    identifier: 'lover',
+},
+{
+    rkey: 'cz_region_lbk',
+    identifier: 'Liberecky',
     locales: [
-      { lang: 'en', name: 'Lover 💗', description: 'Lover'},
+      { lang: 'cs', name: 'Liberecký', description: 'Liberecký kraj'},
     ]
-  },
-  {
-    rkey: '3lahjan2m3w2y',
-    identifier: 'folklore',
+},
+{
+    rkey: 'cz_region_hkk',
+    identifier: 'Kralovehradecky',
     locales: [
-      { lang: 'en', name: 'folklore 🌲', description: 'folklore'},
+      { lang: 'cs', name: 'Královéhradecký', description: 'Královéhradecký kraj'},
     ]
-  },
-  {
-    rkey: '3lahjan5ntk2y',
-    identifier: 'evermore',
+},
+{
+    rkey: 'cz_region_pak',
+    identifier: 'Pardubicky',
     locales: [
-      { lang: 'en', name: 'evermore 🍂', description: 'evermore'},
+      { lang: 'cs', name: 'Pardubický', description: 'Pardubický kraj'},
     ]
-  },
-  {
-    rkey: '3lajae3icck2k',
-    identifier: 'folkmore',
+},
+{
+    rkey: 'cz_region_vys',
+    identifier: 'Vysocina',
     locales: [
-      { lang: 'en', name: 'folkmore 🌲🍂', description: 'folkmore'},
+      { lang: 'cs', name: 'Vysočina', description: 'Vysočina'},
     ]
-  },
-  {
-    rkey: '3lahjanawt72k',
-    identifier: 'midnights',
+},
+{
+    rkey: 'cz_region_jhm',
+    identifier: 'Jihomoravsky',
     locales: [
-      { lang: 'en', name: 'Midnights 🌙', description: 'Midnights'},
+      { lang: 'cs', name: 'Jihomoravský', description: 'Jihomoravský kraj'},
     ]
-  },
-  {
-    rkey: '3lahjanduka2z',
-    identifier: 'ttpd',
+},
+{
+    rkey: 'cz_region_olk',
+    identifier: 'Olomoucky',
     locales: [
-      { lang: 'en', name: 'The Tortured Poets Department 📚', description: 'The Tortured Poets Department'},
+      { lang: 'cs', name: 'Olomoucký', description: 'Olomoucký kraj'},
     ]
-  },
+},
+{
+    rkey: 'cz_region_msk',
+    identifier: 'Moravskoslezsky',
+    locales: [
+      { lang: 'cs', name: 'Moravskoslezský', description: 'Moravskoslezský kraj'},
+    ]
+},
+{
+    rkey: 'cz_region_zlk',
+    identifier: 'Zlinsky',
+    locales: [
+      { lang: 'cs', name: 'Zlínský', description: 'Zlínský kraj'},
+    ]
+}
 ];
