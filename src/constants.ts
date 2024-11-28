@@ -4,98 +4,98 @@ export const DELETE = 'cz_region_del';
 export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
-    rkey: 'cz_region_pha',
+    rkey: '3lbzujpey6a2y',
     identifier: 'Praha',
     locales: [
       { lang: 'cs', name: 'Praha', description: 'Hl. m. Praha'},
     ]
   },
   {
-    rkey: 'cz_region_stc',
+    rkey: '3lbzujpkzju2j',
     identifier: 'Stredocesky',
     locales: [
       { lang: 'cs', name: 'Středočeský', description: 'Středočeský kraj'},
     ]
   },
   {
-    rkey: 'cz_region_jhc',
+    rkey: '3lbzujpremf2',
     identifier: 'Jihocesky',
     locales: [
       { lang: 'cs', name: 'Jihočeský', description: 'Jihočeský kraj'},
     ]
   },
   {
-    rkey: 'cz_region_plk',
+    rkey: '3lbzujpwpki2y',
     identifier: 'Plzensky',
     locales: [
       { lang: 'cs', name: 'Plzeňský', description: 'Plzeňský kraj'},
     ]
 },
 {
-    rkey: 'cz_region_kvk',
+    rkey: '3lbzujq4p4o2h',
     identifier: 'Karlovarsky',
     locales: [
       { lang: 'cs', name: 'Karlovarský', description: 'Karlovarský kraj'},
     ]
 },
 {
-    rkey: 'cz_region_ulk',
+    rkey: '3lbzujqcrav2m',
     identifier: 'Ustecky',
     locales: [
       { lang: 'cs', name: 'Ústecký', description: 'Ústecký kraj'},
     ]
 },
 {
-    rkey: 'cz_region_lbk',
+    rkey: '3lbzujqipon2m',
     identifier: 'Liberecky',
     locales: [
       { lang: 'cs', name: 'Liberecký', description: 'Liberecký kraj'},
     ]
 },
 {
-    rkey: 'cz_region_hkk',
+    rkey: '3lbzujqnzqy2l',
     identifier: 'Kralovehradecky',
     locales: [
       { lang: 'cs', name: 'Královéhradecký', description: 'Královéhradecký kraj'},
     ]
 },
 {
-    rkey: 'cz_region_pak',
+    rkey: '3lbzujqtx3u2l',
     identifier: 'Pardubicky',
     locales: [
       { lang: 'cs', name: 'Pardubický', description: 'Pardubický kraj'},
     ]
 },
 {
-    rkey: 'cz_region_vys',
+    rkey: '3lbzujqzmty2l',
     identifier: 'Vysocina',
     locales: [
       { lang: 'cs', name: 'Vysočina', description: 'Vysočina'},
     ]
 },
 {
-    rkey: 'cz_region_jhm',
+    rkey: '3lbzujr7ob62h',
     identifier: 'Jihomoravsky',
     locales: [
       { lang: 'cs', name: 'Jihomoravský', description: 'Jihomoravský kraj'},
     ]
 },
 {
-    rkey: 'cz_region_olk',
+    rkey: '3lbzujrfthy2l',
     identifier: 'Olomoucky',
     locales: [
       { lang: 'cs', name: 'Olomoucký', description: 'Olomoucký kraj'},
     ]
 },
 {
-    rkey: 'cz_region_msk',
+    rkey: '3lbzujrlrwq24',
     identifier: 'Moravskoslezsky',
     locales: [
       { lang: 'cs', name: 'Moravskoslezský', description: 'Moravskoslezský kraj'},
     ]
 },
 {
-    rkey: 'cz_region_zlk',
+    rkey: '3lbzujrrhgu2j',
     identifier: 'Zlinsky',
     locales: [
       { lang: 'cs', name: 'Zlínský', description: 'Zlínský kraj'},
